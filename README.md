@@ -138,7 +138,7 @@ Feel free to open a **pull request** or create an **issue**.
 
 ------------------------------------------------------------------------
 
-## ✍️ Author
+## ✍️ Author 
 
 Made with 💻 by **Nidhal Labri**  
 🔗 [LinkedIn](https://www.linkedin.com/in/nidhal-labri/)
